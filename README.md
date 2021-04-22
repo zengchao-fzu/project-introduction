@@ -12,7 +12,7 @@
 
 1、设计PCB，实现各个器件之间的连接，下面是两块PCB的实物图，pcb之间通过软排线连接
 
-<img src="image/数据采集板.png" alt="图1 数据采集板" height="180" border="10"/>  <img src="image/控制板.jpg" alt="控制板" height="180" border="10" />  <img src="image/两块pcb连接示意图.jpg" alt="两块pcb连接示意图" height="180" border="10"/>
+<img src="image/数据采集板.png" alt="图1 数据采集板" height="200" border="10"/>  <img src="image/控制板.jpg" alt="控制板" height="200" border="10" />  <img src="image/两块pcb连接示意图.jpg" alt="两块pcb连接示意图" height="200" border="10"/>
 
 
 
